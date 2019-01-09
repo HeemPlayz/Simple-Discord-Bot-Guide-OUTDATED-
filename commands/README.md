@@ -23,7 +23,7 @@ We put a code to know when will the code will be excuted
 and there we write like `ping` and it replys `PONG MY BROTHER`
 The Code is `module.exports.help = {
 name: "ping"
-{`
+}`
 
 ## Thanks For Reading
 
