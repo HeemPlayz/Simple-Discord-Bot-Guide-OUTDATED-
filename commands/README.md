@@ -11,9 +11,7 @@ You HAVE To write the Requirments and that only is
 
 ## Then 
 
-You Write `module.exports.run = (client, message, args) => {
-
-}`
+You Write `module.exports.run = (client, message, args) => { Your Code Here }`
 
 And then Between `{ }` You HAVE to Put Your code
 
@@ -29,4 +27,4 @@ name: "ping"
 
 And I hope I taught You HOW To make a `Discord.js` Bot
 All This was written By Our Brother
-`@SC | HeemPlayz#9999`
+`@HeemPlayz#9955`
