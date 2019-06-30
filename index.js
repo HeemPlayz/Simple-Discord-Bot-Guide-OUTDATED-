@@ -7,7 +7,7 @@ const prefix = "-"; //You can change it to whatever you want
 client.on('message', message => {
 if (message.content === `${prefix}ping`)
 message.channel.send("Pong")
-console.log(`Run By ${message.author,tag}`)
+console.log(`Run By ${message.author.tag}`)
 
 })
 
