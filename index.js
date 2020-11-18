@@ -12,3 +12,4 @@ console.log(`Run By ${message.author.tag}`)
 })
 
 client.login("Token") // Put you Bot Token or just replace it By process.env.BOT_TOKEN and Delete ""
+//
